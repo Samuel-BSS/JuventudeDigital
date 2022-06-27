@@ -1,0 +1,49 @@
+body {
+    background-image: url("https://static-cse.canva.com/blob/759754/IMAGE1.jpg");
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+    color: #000000;
+    background-color: pink;
+}
+
+h2,h3 {
+    font-family: sans-serif;
+    text-align: center;
+    color: orange;
+    background-color: gray;
+}
+
+p {
+    color: yellow;
+    font-weight: 900;
+    font-style: italic;
+    font-family: sans-serif;
+    background-color: green;
+}
+
+.fundo_azul{
+    background-color: lightblue;
+}
+
+.fundo_paragrafo{
+    background-color: lightgreen;
+}
+
+.text_format{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color: blue;
+    font-style: italic;
+}
+
+#imagem_principal{
+    border: 8px;
+    border-style: solid;
+    border-color: #ffffff;
+    width: 500px;
+    height: 250px;
+}
